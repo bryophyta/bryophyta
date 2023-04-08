@@ -1,6 +1,9 @@
-## Articles/explainers
-* [Notes on generating combinations in JavaScript](https://github.com/bryophyta/social-learning-models/blob/main/notes_on_combinations.md). More or less what it sounds like! Some notes on different approaches to generating unique and exhaustive combinations of elements (with repetition) in JavaScript. Something I've found useful when generating lists of strategies for game-theoretic models.
-* [Fruchterman-Reingold demonstration](https://www.peterfaulconbridge.com/portfolio/projects/f-r-demo/) (webpage). A short visual, non-technical, and hopefully intuitive explanation of the principles behind the Fruchterman-Reingold algorithm for drawing nodes on a network graph.
+## Writing
+* [Notes on generating combinations in JavaScript](https://www.peterfaulconbridge.com/posts/notes_on_combinations/). Three methods for generating all of the unique combinations of a set of elements, alongside a little discussion of decision theory.
+* [Using jless to explore complex json files](https://www.peterfaulconbridge.com/posts/jless/). Navigating quickly through large json files from the command line, without getting lost.
+* [Using jq with jless](https://www.peterfaulconbridge.com/posts/jq-with-jless/). Some tips for using jless to generate jq filters.
+
+[The markdown source for these posts](https://github.com/bryophyta/bryophyta.github.io/tree/main/posts) is also available if preferred. PRs welcome!
 
 ## Annotated notebooks
 * [Urn-based signalling](https://github.com/bryophyta/social-learning-models/blob/main/signal_learning_game.ipynb). Learning signalling strategies for two-player signalling game using a simple form of reinforcement learning. Adapted from the model described by Argiento et al. (2009) 'Learning to Signal: Analysis of a micro-level reinforcement model'.
