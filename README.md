@@ -1,6 +1,6 @@
 ## Current preoccupations
 * Thinking about 'legacy' codebases from a technical and institutional perspective.
-* Supporting digital accessibility across complex organisations.
+* How we can build a culture of digital accessibility across different teams.
 * I'm also really enjoying digging deeper into functional programming concepts ✌️
 
 ## Writing
